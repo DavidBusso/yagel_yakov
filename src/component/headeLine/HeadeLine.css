@@ -1,0 +1,27 @@
+.headeLine{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 2%;
+    right: 2%;
+    height: 5%;
+    background-color: #1264b1;
+    text-align: center;
+    margin: 0;
+    border-bottom: 1px solid #e0e0e0;
+
+}
+.headeLine > div {
+    display: flex;
+  }
+
+  .headeLine div > div {
+    background-color: #a5926f;
+    cursor: pointer;
+    font-size: 24px; 
+    border-radius: 8px;
+    justify-content: space-between;
+
+  }

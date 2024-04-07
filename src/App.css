@@ -1,0 +1,13 @@
+body{
+    user-select: none;
+    
+}
+.day-mode {
+    background-color: white;
+    color: black;
+}
+
+.night-mode {
+    background-color: black;
+    color: white;
+}
